@@ -1,4 +1,4 @@
-# Mor'stech
+# Mor'sTech
 ## Projeto - Database Application
 
 ### Tecnologia utilizada - Apache Cassandra
