@@ -1,8 +1,28 @@
 # Mor'sTech
 ## Projeto - Database Application
 
+## Seções:
+- [Resumo](#resumo)
+- [Passo a Passo](#passo-a-passo)
+- [Repositorios](repositorios)
+- [Equipe](#equipe)
+
+## Resumo
+Projeto da cadeira de Database Application com o intuito de formentar o aprendizado da utilização de banco de dados SQL e NOSQL.
+
 ### Tecnologia utilizada - Apache Cassandra
-### Dataset utilizado - [IMDB Top 250 Lists (1996 - 2021)](https://www.kaggle.com/datasets/mustafacicek/imdb-top-250-lists-1996-2020/data)
+### Dataset utilizado - [dataset](https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset).
+
+
+## Passo a Passo
+Caso sinta a necessidade de explicação detalhada, fornecemos o [link](https://docs.google.com/document/d/15_2Xkt4e99LXWo0lqcxmgpjAHF9BT6n5uN3Z2tNdnVw/edit?usp=sharing) do passo a passo com todas as partes do projeto.
+
+## Repositorios
+Repositorios de partes do projeto separadamente.
+* [Tratamento de dados](https://github.com/Mor-sTech/Tratamento-de-Dados)
+* [Modelo Lógico e Fisico](https://github.com/Mor-sTech/Modelo-logico-fisico?tab=readme-ov-file#equipe)
+* [Apache Cassandra](https://github.com/Mor-sTech/Apache-Cassandra)
+
 
 ## Equipe
 * Jessica Nascimento Pessoa da Silva - 01717533
