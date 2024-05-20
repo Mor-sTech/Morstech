@@ -4,7 +4,7 @@
 ## Seções:
 - [Resumo](#resumo)
 - [Passo a Passo](#passo-a-passo)
-- [Repositorios do projeto](repositorios-do-projeto)
+- Repositorios do projeto
 - [Equipe](#equipe)
 
 ## Resumo
